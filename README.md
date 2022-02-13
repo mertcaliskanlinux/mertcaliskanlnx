@@ -40,7 +40,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mertcaliskanlnx&show_icons=true&theme=dark&locale=en&layout=compact"/>
 
 
-[hackerrank]: https://www.hackerrank.com/mertcaliskan
+[hackerrank]: https://www.hackerrank.com/mertcaliskanlin1
 [stackoverflow]: https://stackoverflow.com/users/16242094/mert-%c3%87al%c4%b1%c5%9fkan
 [gmail]: mailto:mertcaliskanlinux@gmail.com
 [in]:  https://www.linkedin.com/in/mert%C3%A7al%C4%B1%C5%9Fkanlinux/
