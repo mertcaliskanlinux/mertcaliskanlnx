@@ -43,4 +43,4 @@
 [hackerrank]: https://www.hackerrank.com/mertcaliskan
 [stackoverflow]: https://stackoverflow.com/users/mertcaliskanlinux
 [gmail]: mailto:mertcaliskanlinux@gmail.com
-[in]:  www.linkedin.com/in/mertçalışkanlinux
+[in]:  https://www.linkedin.com/in/mert%C3%A7al%C4%B1%C5%9Fkanlinux/
