@@ -1,5 +1,5 @@
 ### :zap: GitHub Stats
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/konerjonlar?cardType=github&theme=tokyonight&Ring=1A19FF)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mertcaliskanlnx?cardType=github&theme=tokyonight&Ring=1A19FF)](https://git.io/awesome-stats-card)
 
 ### My Challanges
 
@@ -44,8 +44,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=konerjonlar&show_icons=true&theme=dark&locale=en&layout=compact"/>
 
 
-[codewars]: https://www.codewars.com/users/konerjonlar
-[hackerrank]: https://www.hackerrank.com/orhancansu98
-[stackoverflow]: https://stackoverflow.com/users/15897604/konerjonlar
-[gmail]: mailto:orhancansu98@gmail.com
-[in]: https://www.linkedin.com/in/orhan-cansu/
+[hackerrank]: https://www.hackerrank.com/mertcaliskan
+[stackoverflow]: https://stackoverflow.com/users/mertcaliskanlinux
+[gmail]: mailto:mertcaliskanlinux@gmail.com
+[in]:  www.linkedin.com/in/mertçalışkanlinux
